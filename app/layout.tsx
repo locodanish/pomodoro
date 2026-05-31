@@ -21,7 +21,7 @@ export default function RootLayout({
           {/* Cute Header */}
           <header className="text-center mb-6">
             <h1 className="text-3xl font-bold text-purple-600">
-              🍅 Pomodoro Buddy
+              🍅 Pomodoro For Sayang
             </h1>
             <p className="text-gray-500 text-sm">
               Fighting Sayang ✨
