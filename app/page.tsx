@@ -259,7 +259,7 @@ export default function Page() {
                 onChange={(e) => setNewTask(e.target.value)}
                 onKeyPress={(e) => e.key === "Enter" && addTask()}
                 placeholder="Add a new task..."
-                className="flex-1 px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-purple-400"
+                className="flex-1 px-4 py-3 rounded-lg border border-purple-300 focus:outline-none focus:ring-2 focus:ring-purple-400"
               />
               <button
                 onClick={addTask}
